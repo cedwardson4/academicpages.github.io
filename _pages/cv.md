@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](files/EdwardsonCVFeb2019.pdf) (Updated Feb 2019)
+[Download my CV](../files/EdwardsonCVFeb2019.pdf) (Updated Feb 2019)
